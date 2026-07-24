@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**SeptianHady/SeptianHady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there, I'm Septian 👋</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Currently+exploring+the+world+of+Web+Dev;Learning+how+to+host+backend+%E2%86%92+frontend;From+localhost+to+the+internet+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"> </p>
+🚀 About Me
+🔭 Saya lagi belajar-belajar aja belakangan ini, jadi fokusnya masih fleksibel — belum terpaku ke satu jalur.
+🌱 Sedang mendalami cara hosting backend ke frontend dan mempublikasikan project ke internet.
+⚡ Suka proses coba-coba: dari localhost sampai bisa diakses orang lain.
+📫 Kalau mau ngobrol atau kolaborasi, mampir aja ke Instagram saya di bawah 👇
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,docker,vercel,nginx" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SeptianHady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeptianHady&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptianHady&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/SeptianHady/SeptianHady/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+<p align="left"> <a href="https://instagram.com/_sephara" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SeptianHady&label=Profile%20Views&color=2EA3F7&style=flat" alt="Profile views" /> </p>
